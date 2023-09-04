@@ -1,7 +1,7 @@
 #!/bin/bash
 
-a = 5
-b = 77
+a = 555
+b = 777
 
 sum=a+b
 echo sum
